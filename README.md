@@ -1,2 +1,1 @@
 # flutter_bookly_app
-flutter_bookly_app
